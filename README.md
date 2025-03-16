@@ -123,7 +123,7 @@ This guide will walk you through the basics of using GitHub, including installin
      git push origin main
      ```
 
-   ![Git Push](https://via.placeholder.com/600x400.png?text=Git+Push)
+   ![Git Push](images/git-push-Screenshot.png)
 
 2. **Verify on GitHub**:
    - Go to your repository on GitHub and verify that the `index.html` file has been added.
@@ -131,45 +131,3 @@ This guide will walk you through the basics of using GitHub, including installin
    ![Verify on GitHub](https://via.placeholder.com/600x400.png?text=Verify+on+GitHub)
 
 ---
-
-## Inserting an Image
-
-1. **Add an Image to Your Repository**:
-   - Place the image file (e.g., `logo.png`) in your repository folder.
-
-   ![Add Image](https://via.placeholder.com/600x400.png?text=Add+Image)
-
-2. **Stage and Commit the Image**:
-   - Stage the image file:
-     ```bash
-     git add logo.png
-     ```
-   - Commit the changes:
-     ```bash
-     git commit -m "added logo image"
-     ```
-   - Push the changes to GitHub:
-     ```bash
-     git push origin main
-     ```
-
-   ![Stage and Commit Image](https://via.placeholder.com/600x400.png?text=Stage+and+Commit+Image)
-
-3. **Display the Image in Your README**:
-   - Open the `README.md` file in your repository.
-   - Add the following Markdown syntax to display the image:
-     ```markdown
-     ![Logo](logo.png)
-     ```
-   - Commit and push the changes:
-     ```bash
-     git add README.md
-     git commit -m "added logo to README"
-     git push origin main
-     ```
-
-   ![Display Image in README](https://via.placeholder.com/600x400.png?text=Display+Image+in+README)
-
----
-
-Congratulations! You’ve successfully set up a GitHub repository, made changes, and inserted an image.
