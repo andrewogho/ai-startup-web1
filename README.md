@@ -128,6 +128,6 @@ This guide will walk you through the basics of using GitHub, including installin
 2. **Verify on GitHub**:
    - Go to your repository on GitHub and verify that the `index.html` file has been added.
 
-   ![Verify on GitHub](https://via.placeholder.com/600x400.png?text=Verify+on+GitHub)
+   ![Verify on GitHub](images/verify-Screenshot.png)
 
 ---
