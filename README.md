@@ -18,7 +18,7 @@ This guide will walk you through the basics of using GitHub, including installin
      ```
    - This should display the installed version of Git.
 
-   ![Git Version Check](images/Git_installed_Screenshot.png)
+   ![Git Version Check](images/Git-version-Screenshot.png)
 
 ---
 
