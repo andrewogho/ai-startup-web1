@@ -91,7 +91,7 @@ This guide will walk you through the basics of using GitHub, including installin
      ```
    - Add some content to the file using a text editor or IDE.
 
-   ![Create Index File](https://via.placeholder.com/600x400.png?text=Create+Index+File)
+   ![Create Index File](images/Create-index-file-Screenshot.png)
 
 2. **Check Git Status**:
    - Run the following command to see the changes that have not been staged:
@@ -99,7 +99,7 @@ This guide will walk you through the basics of using GitHub, including installin
      git status
      ```
 
-   ![Git Status](https://via.placeholder.com/600x400.png?text=Git+Status)
+   ![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
 
 3. **Stage Changes**:
    - Stage all changes for commit:
@@ -107,16 +107,12 @@ This guide will walk you through the basics of using GitHub, including installin
      git add .
      ```
 
-   ![Git Add](https://via.placeholder.com/600x400.png?text=Git+Add)
-
 4. **Commit Changes**:
    - Commit the changes with a message:
      ```bash
      git commit -m "this is my first commit"
      ```
-
-   ![Git Commit](https://via.placeholder.com/600x400.png?text=Git+Commit)
-
+     ![Git Status](images//Git_commit_Screenshot%202025-03-16%20172257.png)
 ---
 
 ## Push Changes to GitHub
