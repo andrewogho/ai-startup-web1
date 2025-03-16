@@ -10,7 +10,7 @@ This guide will walk you through the basics of using GitHub, including installin
    - Visit the official Git website: [https://git-scm.com/](https://git-scm.com/).
    - Download the appropriate version for your operating system (Windows, macOS, or Linux).
 
-   ![Download Git](https://via.placeholder.com/600x400.png?text=Download+Git+Screen)
+   ![Download Git](https://git-scm.com/downloads)
 
 2. **Install Git**:
    - Follow the installation instructions for your operating system.
