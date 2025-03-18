@@ -136,7 +136,7 @@ This guide will walk you through the basics of using GitHub, including navigatin
 
 ---
 
-## Part 1: Navigating the Project Directory and Checking Branches
+## Navigating the Project Directory and Checking Branches
 
 ### Steps:
 1. **Navigate to the project directory** you just cloned using the command:
@@ -158,9 +158,11 @@ This guide will walk you through the basics of using GitHub, including navigatin
 
 4. **Verify the new branch** by running `git branch` again. You should see the newly created branch listed.
 
+![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
+
 ---
 
-## Part 2: Making Changes and Staging Them
+## Making Changes and Staging Them
 
 ### Steps:
 1. Open the `index.html` file in your code editor. Since this file already exists in the main branch, it will also exist in the new branch you created.
@@ -169,6 +171,7 @@ This guide will walk you through the basics of using GitHub, including navigatin
    ```html
    This is Tom adding Navigation to the AI-website
    ```
+   ![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
 
 3. **Check the status of your changes** using:
    ```bash
@@ -184,9 +187,11 @@ This guide will walk you through the basics of using GitHub, including navigatin
 
 5. **Confirm the staged changes** by running `git status` again. The changes should now be staged and ready to commit.
 
+![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
+
 ---
 
-## Part 3: Committing and Pushing Changes
+## Committing and Pushing Changes
 
 ### Steps:
 1. **Commit the changes** with a meaningful message:
@@ -198,10 +203,11 @@ This guide will walk you through the basics of using GitHub, including navigatin
    ```bash
    git push origin update-navigation
    ```
+   ![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
 
 ---
 
-## Part 4: Simulating Jerry's Contribution
+## Simulating Jerry's Contribution
 
 ### Steps:
 1. **Switch back to the main branch**:
@@ -222,5 +228,6 @@ This guide will walk you through the basics of using GitHub, including navigatin
    git commit -m "add contact information"
    git push origin add-contact-info
    ```
+   ![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
 
 ---
