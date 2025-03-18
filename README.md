@@ -228,6 +228,6 @@ This guide will walk you through the basics of using GitHub, including navigatin
    git commit -m "add contact information"
    git push origin add-contact-info
    ```
-   ![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
+   ![Git Status](images/Jerry-contribution.PNG)
 
 ---
