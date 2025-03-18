@@ -158,7 +158,7 @@ This guide will walk you through the basics of using GitHub, including navigatin
 
 4. **Verify the new branch** by running `git branch` again. You should see the newly created branch listed.
 
-![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
+![Git branching](images/git-Navigating.PNG)
 
 ---
 
@@ -171,7 +171,7 @@ This guide will walk you through the basics of using GitHub, including navigatin
    ```html
    This is Tom adding Navigation to the AI-website
    ```
-   ![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
+   ![Git Status](images/new-branch-index.PNG)
 
 3. **Check the status of your changes** using:
    ```bash
