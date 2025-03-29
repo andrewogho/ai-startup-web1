@@ -12,7 +12,7 @@ This guide will walk you through the basics of using GitHub, including installin
 
 
 
-    ![Git download](imgs/1.dL_git.png)  
+    ![Git download](images/1.dL_git.png)  
 
 
 2. **Install Git**:
