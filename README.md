@@ -10,15 +10,26 @@ This guide will walk you through the basics of using GitHub, including installin
    - Visit the official Git website: [https://git-scm.com/](https://git-scm.com/).
    - Download the appropriate version for your operating system (Windows, macOS, or Linux).
 
+
+
+    ![Git download](imgs/1.dL_git.png)  
+
+
 2. **Install Git**:
    - Follow the installation instructions for your operating system.
+     ```
+     sudo port install git 
+     ```
+     ![Installing git](images/sudo_port_install_git.png)   
+
+
    - Once installed, open a terminal or command prompt and verify the installation by running:
      ```bash
      git --version
      ```
    - This should display the installed version of Git.
 
-   ![Git Version Check](images/Git-version-Screenshot.png)
+   ![Git Version Check](images/2.git.png)
 
 ---
 
