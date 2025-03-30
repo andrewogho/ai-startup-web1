@@ -158,7 +158,7 @@ This guide will walk you through the basics of using GitHub, including navigatin
 
 4. **Verify the new branch** by running `git branch` again. You should see the newly created branch listed.
 
-![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
+![Git branching](images/git-Navigating.PNG)
 
 ---
 
@@ -171,7 +171,7 @@ This guide will walk you through the basics of using GitHub, including navigatin
    ```html
    This is Tom adding Navigation to the AI-website
    ```
-   ![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
+   ![Git Status](images/new-branch-index.PNG)
 
 3. **Check the status of your changes** using:
    ```bash
@@ -187,7 +187,7 @@ This guide will walk you through the basics of using GitHub, including navigatin
 
 5. **Confirm the staged changes** by running `git status` again. The changes should now be staged and ready to commit.
 
-![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
+![Git Status](images/staging-status.PNG)
 
 ---
 
@@ -198,12 +198,13 @@ This guide will walk you through the basics of using GitHub, including navigatin
    ```bash
    git commit -m "update navigation bar"
    ```
+   ![Git Status](images/Branch-commit.PNG)
 
 2. **Push the branch to GitHub** using:
    ```bash
    git push origin update-navigation
    ```
-   ![Git Status](images/git-status-Screenshot%202025-03-16%20171638.png)
+   ![Git Status](images/Branch-push.PNG)
 
 ---
 
